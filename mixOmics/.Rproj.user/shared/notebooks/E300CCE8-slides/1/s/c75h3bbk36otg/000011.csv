@@ -1,0 +1,5 @@
+"0","mrna_model <- splsda(X = breast.TCGA$data.train$mrna,"
+"0","                      Y = breast.TCGA$data.train$subtype,"
+"0","                      keepX = c(5, 5),"
+"0","                      ncomp = 2)"
+"0","mrna_perf <- perf(mrna_model, validation = ""Mfold"", folds = 5, nrepeat = 5)"
