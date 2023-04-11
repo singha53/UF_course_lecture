@@ -63,9 +63,11 @@ class: middle
 
 # Learning outcomes
 
-### 1. why mixomics?
-### 2. setting up R, RStudio, and mixOmics
-### 3. Case studies
+By the end of this lecture you will be able to:
+
+### 1. Describe what the *mixOmics* R-library can do.
+### 2. Describe when to use which method and for what purpose (exploration, classification, integration).
+### 3. Analyze data using mixOmics for various purposes (exploration, classification, integration)
 
 ---
 
