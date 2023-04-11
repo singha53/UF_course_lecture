@@ -2,12 +2,12 @@
  
 
 .inverse {
-  background-image: url(img/website_bkg.png);
+  background-image: url(img/title_bkg.png);
   background-size: cover;
 }
 
 .title-slide {
-  background-image: url(img/website_bkg.png);
+  background-image: url(img/title_bkg.png);
   background-size: cover;
 }
 

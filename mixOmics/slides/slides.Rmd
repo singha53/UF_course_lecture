@@ -2,7 +2,7 @@
 ---
 title: "Getting started with mixOmics"
 author: "Amrit Singh, PhD<br><span style = 'font-size: 75%;'>Assistant Professor</span>"
-date: 'April 13th, 2023 | 11:45-12:35 EST<br><br>`r fontawesome::fa("link")` [Comp Bio lab](https://cbl-hli.med.ubc.ca/)<br>`r fontawesome::fa("github")` [code](https://github.com/singha53/UF_course_lecture)'
+date: 'April 13th, 2023 | 11:45-12:35 EST<br><br>Introduction to Chemometrics (CHM6165) <br> University of Florida <br> <br>`r fontawesome::fa("link")` [Comp Bio lab](https://cbl-hli.med.ubc.ca/)<br>`r fontawesome::fa("github")` [code](https://github.com/singha53/UF_course_lecture)'
 output:
   xaringan::moon_reader:
     css: [default, middlebury-fonts, "theme.css"]
